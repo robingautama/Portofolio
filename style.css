@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap");
+
+body {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  background-color: #f4f5f7;
+  color: #1e293b;
+}
+
+/* Clay Custom Shadow Utilities */
+.shadow-clay-card {
+  box-shadow:
+    0 10px 30px -10px rgba(0, 0, 0, 0.05),
+    inset 0 2px 4px 0 rgba(255, 255, 255, 0.8);
+}
+
+.shadow-clay-button {
+  box-shadow: 0 4px 14px 0 rgba(15, 23, 42, 0.25);
+}
+
+/* Clay Theme Color Classes */
+.bg-clay-pink {
+  background-color: #ff4d8d;
+}
+.text-clay-pink {
+  color: #ff4d8d;
+}
+
+.bg-clay-teal {
+  background-color: #00a896;
+}
+.text-clay-teal {
+  color: #00a896;
+}
+
+.bg-clay-lavender {
+  background-color: #8b5cf6;
+}
+.text-clay-lavender {
+  color: #8b5cf6;
+}
+
+.bg-clay-peach {
+  background-color: #ff8800;
+}
+.text-clay-peach {
+  color: #ff8800;
+}
